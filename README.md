@@ -2,6 +2,7 @@
    I'm Hong,😄a web developer(mostly fronted) and penetration tester currently studying  and living in Auckland,I'm willing u take a look on my repositories.U could invoke them      and star one of those if u like! 
    - 👯 I’m looking to collaborate on fronted web and software development. 
    - 💬 Ask me about web development. 
+   - 🤔 I’m looking for help with wechat miniprogram database and js algorithm.
  ### WELCOME TO MY GITHUB PAGE!
  ![HONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwen554&show_icons=true&theme=radical)![HONG's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hwen554&show_icons=true&theme=radical)
  
@@ -32,8 +33,10 @@ Bouncing Program(Full Stack):
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)  ![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black) 
 
 
+ ![HONG's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hwen554&show_icons=true&theme=radical)  
+ 
+ 
 
- ![HONG's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hwen554&show_icons=true&theme=radical) 
 
 
 
