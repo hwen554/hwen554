@@ -6,7 +6,7 @@
    I'm Hong,😄a web developer(mostly fronted) and penetration tester currently studying  and living in Auckland,I'm willing u take a look on my repositories.U could invoke them      and star one of those if u like! 
    - 👯 I’m looking to collaborate on fronted web and software development. 
    - 💬 Ask me about web development. 
-   - 🤔 I’m looking for help with wechat miniprogram database and js algorithm.
+   - 🤔 I’m looking for help with wechat miniprogram databases and js algorithm.
  ### WELCOME TO MY GITHUB PAGE!
  ![HONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwen554&show_icons=true&theme=radical)![HONG's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hwen554&show_icons=true&theme=radical)
  
