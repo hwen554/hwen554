@@ -11,7 +11,7 @@
  ![HONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwen554&show_icons=true&theme=radical)![HONG's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=hwen554&show_icons=true&theme=radical)
  
 
-   ### EDUCATION:
+   ### 🎓📚EDUCATION:
    ![](https://img.shields.io/badge/UOA-CS-orange)
 ### 👩‍💻LANGUAGES:
 ![](https://img.shields.io/badge/python-3.9-orange) ![](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)  ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
