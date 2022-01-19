@@ -3,7 +3,7 @@
    ![image](https://user-images.githubusercontent.com/78581470/141599881-ea0e9ebc-7e6f-4124-8298-6650dab5fe0c.png)
    ### Here's My LeetCode Page:https://leetcode.com/HW554/.
 
-   I'm Hong,😄a web developer(mostly front end) and penetration tester currently studying  and living in Auckland,I'm willing u take a look on my repositories.U could invoke them      and star one of those if u like! 
+   I'm Hong,😄a web developer(mostly front end) and penetration tester currently studying  and living in Auckland,I'm willing that u take a look on my repositories.U could invoke them      and star one of those if u like! 
    - 🔭 I’m currently working on Microlmall ltd NewZealand(Omins system&Backend)
    - 👯 I’m looking to collaborate on fronted web and software development. 
    - 💬 Ask me about web development and coding questions. 
