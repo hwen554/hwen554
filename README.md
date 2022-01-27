@@ -29,11 +29,11 @@ AUCSS Mini Program(Developer,leaded by Zach Wang(senior fellow apprentice/Chief 
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Github-F05032?style=flat&logo=github&logoColor=white)
 
-Solitare Game(Full Stack, guided by Damir Azhar):
+Solitare Game(Full Stack, guided by Damir Azhar(Professor)):
 
 ![](https://img.shields.io/badge/python-3.9-orange) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) 
 
-Bouncing Program(Full Stack, guided by Angela Chang):
+Bouncing Program(Full Stack, guided by Angela Chang(Professor)):
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)  ![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black) ![](https://img.shields.io/badge/TextPad-8-red)
 
