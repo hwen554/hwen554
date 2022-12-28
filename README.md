@@ -1,4 +1,4 @@
-   ### Hi there 👋 GLAD TO SEE YOU. [](https://komarev.com/ghpvc/?username=hwen554)
+   ### Hi there 👋 GLAD TO SEE YOU............. [](https://komarev.com/ghpvc/?username=hwen554)
  ### 🎓📚EDUCATION: ![](https://img.shields.io/badge/UOA-CS-pink)  
  ### Leedcode:https://leetcode.com/profile/
 ### 👩‍ 💻Languages:![](https://img.shields.io/badge/python-3.9-orange) ![](https://img.shields.io/badge/SQL-330F63?style=flat&logo=SQL&logoColor=white)  ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![](https://img.shields.io/badge/Csharp-1572B6?style=flat&logo=csharp&logoColor=white) ![](https://img.shields.io/badge/C++-00599C++?style=flat&logo=c&logoColor=white)
