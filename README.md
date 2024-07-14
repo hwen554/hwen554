@@ -10,7 +10,7 @@
 ```sh
 ​
 const Gavin = {
-    Programming: ["Javascript", "Python", "Java", "Typescript", "C#","C++","SQL"],
+    Programming: ["Javascript", "Typescript", "Python", "Java", "Typescript", "C#","C++","SQL"],
     tech: {
         backEnd: ["Node.js", "ASP.NET", "Express", "SpringBoot", "Django", "Flask"],
         frontEnd: ["React.js", "Redux", "WeChatApp", "Bootstrap", "React Native","Next.js"],
