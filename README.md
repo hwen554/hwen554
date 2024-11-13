@@ -13,7 +13,7 @@ const Gavin = {
     Programming: ["Javascript", "Typescript", "Python", "Java", "Typescript", "C#","C++","SQL"],
     tech: {
         backEnd: ["Node.js", "ASP.NET", "Express", "SpringBoot", "Django", "Flask"],
-        frontEnd: ["React.js", "Redux", "WeChatApp", "Bootstrap", "React Native","Next.js"],
+        frontEnd: ["React.js", "Redux", "Flutter", "Bootstrap", "React Native","Next.js"],
         devOps: ["Docker🐳"],
         databases: ["MongoDB", "MySql", "SQLite"],
         misc: ["Firebase", "Socket.IO", "GraphQL", "SendGrid","Appwrite","Supabase"]
