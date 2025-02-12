@@ -13,10 +13,10 @@ const Gavin = {
     Programming: ["Javascript", "Typescript", "Python", "Java", "Typescript", "C#","C++","SQL"],
     tech: {
         backEnd: ["Node.js", "ASP.NET", "Express", "SpringBoot", "Django", "Flask"],
-        frontEnd: ["React.js", "Redux", "Flutter", "Bootstrap", "React Native","Next.js"],
-        devOps: ["Docker🐳"],
-        databases: ["MongoDB", "MySql", "SQLite"],
-        misc: ["Firebase", "Socket.IO", "GraphQL", "SendGrid","Appwrite","Supabase"]
+        frontEnd: ["React.js","Next.js", "Redux", "Flutter", "Bootstrap", "React Native","Angular.js"],
+        devOps: ["Docker🐳","Git🦊","Maven"],
+        databases: ["MongoDB", "MySql", "SQLite","Neon","Firebase","Supabase"],
+        misc: ["Socket.IO", "GraphQL", "SendGrid","Appwrite"]
     },
     certificates: ["Aliyun Senior Artificial Intelligence Trainer"],
     currentFocus: ["Web Development","Mobile App Development"]
