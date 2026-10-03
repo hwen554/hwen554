@@ -10,11 +10,11 @@
 ```sh
 ​
 const Gavin = {
-    Programming: ["Javascript", "Typescript", "Python", "Java", "Typescript", "C#","C++","SQL"],
+    Programming: ["Javascript", "Typescript", "Python", "Java", "Typescript", "C#","C++","SQL","Go"],
     tech: {
         backEnd: ["Node.js", "ASP.NET", "Express", "SpringBoot", "Django", "Flask"],
         frontEnd: ["React.js","Next.js", "Redux", "Flutter", "Bootstrap", "React Native","Angular.js"],
-        devOps: ["Docker🐳","Git🦊","Maven"],
+        devOps: ["Docker🐳","Git🦊","Maven","K8s"],
         databases: ["MongoDB", "MySql", "SQLite","Neon","Firebase","Supabase"],
         misc: ["Socket.IO", "GraphQL", "SendGrid","Appwrite"]
     },
